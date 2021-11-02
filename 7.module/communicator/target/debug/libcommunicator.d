@@ -1,0 +1,1 @@
+/Users/hong/Develop/study/rust_tutorial/7.module/communicator/target/debug/libcommunicator.rlib: /Users/hong/Develop/study/rust_tutorial/7.module/communicator/src/client.rs /Users/hong/Develop/study/rust_tutorial/7.module/communicator/src/lib.rs /Users/hong/Develop/study/rust_tutorial/7.module/communicator/src/network.rs
